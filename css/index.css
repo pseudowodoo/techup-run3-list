@@ -1,0 +1,72 @@
+body > header {
+    padding-bottom: 1.5rem;
+}
+
+header > img {
+    display: block;
+    margin: 0 auto;
+}
+
+header > h6 {
+    text-align: center;
+}
+
+.container {
+    padding-top: 0;
+    padding-bottom: 0
+}
+
+footer > small {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+article {
+    margin: 10px 0;
+    padding: 1.5rem 1.5rem;
+    border-radius: 8px;
+    height: calc(100% - 20px);
+}
+
+article > img {
+    margin-bottom: 20px;
+}
+
+article > a {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+}
+
+article > p {
+    margin-bottom: 0;
+    overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-line-clamp: 2; /* number of lines to show */
+           line-clamp: 2;
+   -webkit-box-orient: vertical;
+}
+
+#searchInput {
+    border-radius: 0.25rem;
+}
+
+.hiden {
+    visibility: hidden;
+}
+
+.logo-headline {
+    margin-top: 0.5rem;
+}
+
+.techup-links {
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.techup-links > div > a {
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
+}

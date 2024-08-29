@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="./css/pico.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css"
+      type="text/css"
+    />
+
+    <link rel="stylesheet" href="./css/index.css" />
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+    <script src="
+./js/jquery.min.js
+"></script>
+    <script src="./js/index.js"></script>
+    <script
+      async
+      src="https://eye.pantrybooking.com/script.js"
+      data-website-id="01506393-0524-436f-b915-22169aec9c8b"
+    ></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-C54E2P822H"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-C54E2P822H");
+    </script>
+    <title>TechUp 2.0</title>
+    <meta
+      name="description"
+      content="Flashback to the TechUp projects we built together 🚀🎉"
+    />
+    <link rel="icon" type="image/x-icon" href="./img/favicon.ico" />
+  </head>
+  <body>
+    <header>
+      <img
+        src="./img/techup-logo.png"
+        alt="Logo of a boy wearing glasses with the words TechUp below"
+        width="200px"
+      />
+      <h6 class="logo-headline">
+        <box-icon
+          name="heart"
+          type="solid"
+          animation="tada"
+          color="#ff0000"
+        ></box-icon>
+        <mark>for better public good</mark>
+        <box-icon
+          name="heart"
+          type="solid"
+          animation="tada"
+          color="#ff0000"
+        ></box-icon>
+      </h6>
+    </header>
+    <main class="container">
+      <div class="row techup-links">
+        <div
+          class="col-xs-12 col-sm-offset-3 col-sm-6 col-md-offset-3 col-md-6"
+        >
+          <a href="https://info.techup.live" target="_blank">About</a> |
+          <a
+            href="https://docs.google.com/presentation/d/1oii-XVzYNeDl8tFmTIWAi8mo64O3DlMuzqVYm52Eu0M/edit?usp=sharing"
+            target="_blank"
+            >Booth Layout</a
+          >
+          |
+          <a href="https://2023.techup.live" target="_blank">2023 Projects</a>
+        </div>
+      </div>
+      <div class="row categories">
+        <div
+          class="col-xs-12 col-sm-offset-3 col-sm-6 col-md-offset-4 col-md-4"
+        >
+          <select id="techup-categories" required>
+            <option value="all" selected>All Categories</option>
+            <option value="community">Community</option>
+            <option value="civil-service">Civil Service</option>
+            <option value="education">Education</option>
+            <option value="family">Family</option>
+            <option value="finance">Finance</option>
+            <option value="food">Food</option>
+            <option value="health-fitness">Health & Fitness</option>
+            <option value="household-server">Household Service</option>
+            <option value="sustainability">Sustainability</option>
+          </select>
+        </div>
+      </div>
+      <div class="row search-box">
+        <div class="col-xs-12">
+          <input
+            id="searchInput"
+            type="search"
+            name="search"
+            placeholder="Search"
+            aria-label="Search"
+          />
+        </div>
+      </div>
+      <div class="row" id="techup-projects"></div>
+    </main>
+    <footer>
+      <small>curiosity. patience. faith.</small>
+    </footer>
+  </body>
+</html>
