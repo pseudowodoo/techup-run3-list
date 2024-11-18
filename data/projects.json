@@ -1,562 +1,552 @@
 [
-  {
-      "developer": "Majella Woo",
-      "lg": "1",
-      "category": "sports",
-      "name": "Littletrails!",
-      "website": "https://littletrails.org",
-      "summary": "Littletrails suggests jogging routes for jogging enthusiasts, according to their preference/needs (e.g. terrain, distance, amount of shelter).  Recognising that this primarily targets users who are jogging with their fellow companions on weekends, upon filtering, within suggested page, it would also provide information on interesting sights (e.g. animals) to look out for, and where to stop for a drink/meal post-jog.",
-      "screenshot": "./img/periodpal.cc.png",
-      "headline": "Littletrails suggests jogging routes for jogging enthusiasts, according to their preference/needs"
-  },
-  {
-      "developer": "Lawrence Seng",
-      "lg": "1",
-      "category": "sports",
-      "name": "Fing-My-Coach",
-      "website": "https://tennis-for-life.com/",
-      "summary": "Find-My-Coach app allows tennis players who wants to sharpen their skills on a last minute basis and need to find an available coach. Assumption includes the tennis court availabity and price is not an issue.  ",
-      "screenshot": "./img/",
-      "headline": "Find-My-Coach app allows tennis players who wants to sharpen their skills on a last minute basis and need to find an available coach"
-  },
-  {
-      "developer": "Poh Kheng Thong",
-      "lg": "1",
-      "category": "Work",
-      "name": "SG Co-Working Office Finder",
-      "website": "https://www.sgcoofficefinder.com/",
-      "summary": "This web application provides personalized recommendations and guidance for users seeking co-working offices in their vicinity. By alleviating overcrowding in popular business districts and reducing congestion on public transport during peak hours, it promotes a more sustainable commuting experience. Additionally, it encourages users to adopt active transportation options, such as cycling and walking, fostering a healthier lifestyle.\nKey Features:\nFlexible Access: The app supports both anonymous browsing and authenticated access through Google Sign-In.\nPersonalized Recommendations: For signed-in users, the app offers the option to provide basic information (optional), such as home address, primary office address, and preferred mode of transport. This data helps tailor recommendations to meet individual needs.\nCo-Working Office Discovery: Users can browse a list of nearby co-working offices, which can be sorted by either distance or estimated travel time from their current location or an entered address.\nInteractive Mapping: The application displays the user’s current location and outlines the route to their selected co-working office using Google Maps, ensuring an easy navigation experience.\nWeather Insights: Users receive real-time weather forecasts and temperature data sourced from the NEA 24-Hour Weather Forecast API. This information assists users in making informed decisions regarding their mode of transportation.\nTime-Saving Alerts: The app highlights potential time savings when opting for co-working offices closer than their primary workplace, along with emphasizing the benefits of alternative transportation methods like cycling.",
-      "screenshot": "./img/",
-      "headline": "personalized recommendations and guidance for users seeking co-working offices in their vicinity"
-  },
-  {
-      "developer": "Olivia Kam",
-      "lg": "1",
-      "category": "sports",
-      "name": "Sport On",
-      "website": "https://sporton.site/",
-      "summary": "This web app allows casual sports enthusiasts who are exploring a new sport, to rent relevant equipment (not inclusive of wearable gear) from other people for a period of time, at a lower cost, and in their vicinity. Rental profiles include their listings, as well as ratings and testimonies from past exchanges, for users to gain an insight of the credibility of equipment owners. Users can also reach out to these owners (if they indicated in their profile) to play the sport together, addressing users' pain points of cost of equipment and lack of friends to play the sport together with. ",
-      "screenshot": "./img/",
-      "headline": "This web app allows casual sports enthusiasts who are exploring a new sport, to rent relevant equipment"
-  },
-  {
-      "developer": "Fiona Tan",
-      "lg": "1",
-      "category": "Work",
-      "name": "Conservation Compendium",
-      "website": "https://conservationcompendium.com/",
-      "summary": "A mobile responsive web app that provides a quick visual reference for non-specialists to find out more about condition terms. It contains basic definitions, allows filtering by material type, and contains detailed pages including visuals and additional information like what treatment options are commonly available or what precautions should be taken.",
-      "screenshot": "./img/",
-      "headline": "A mobile responsive web app that provides a quick visual reference for non-specialists to find out more about condition terms"
-  },
-  {
-      "developer": "Angela Wu",
-      "lg": "1",
-      "category": "Education",
-      "name": "Interact",
-      "website": "https://angelawph.com/",
-      "summary": "Website for participant to submit anonymous question based on listed events or event name that was previously created.\nParticipant can upvote submitted questions.\nSpeaker can select checkbox which greys out the answered question\nSpeaker can select Answer offline which greys out the answered question",
-      "screenshot": "./img/",
-      "headline": "Website for participant to submit anonymous question based on listed events or event name that was previously created."
-  },
-  {
-      "developer": "Nicholas Ling",
-      "lg": "1",
-      "category": "sports",
-      "name": "RunBuddy",
-      "website": "runbuddy.run",
-      "summary": "NA",
-      "screenshot": "./img/",
-      "headline": "NA"
-  },
-  {
-      "developer": "Charlene Zeng",
-      "lg": "1",
-      "category": "Education",
-      "name": "Weekend do what?",
-      "website": "weekend-do-what.org",
-      "summary": "The web app provides recommendations of activities to do with kids. It can be filtered according to (a) age group, (b) activity type (indoor/outdoor), and (c) cost (free/paid). The activity provides a clickable link to a recommendation. ",
-      "screenshot": "./img/",
-      "headline": "The web app provides recommendations of activities to do with kids"
-  },
-  {
-      "developer": "Rita Goh",
-      "lg": "1",
-      "category": "Social Needs",
-      "name": "Book a Seat!",
-      "website": "www.bookaseat.org",
-      "summary": "Simple steps for Seniors to book a seat.\nStep 1 : Scan QR code on table.\nStep 2: Complete simple details like FirstName, LastName, Email or Mobile number, so we personalise services (future roadmap) to you.\nLast step: Choose seat.\n\"\"You have a seat confirmed for you at B2 location! Starting from hhmmss, you have 60mins!\"",
-      "screenshot": "./img/",
-      "headline": ""
-  },
-  {
-      "developer": "(Still working on the i)Open weather 3-hr endpoint API ii)Extend booking time iii)enlarged seatmap location, iv) procuring physical scanner for \"\"Scan & auto-book v)raspberry pi/jumper wire/resistor/redgreen LED light to indicate availability, etc. Hope to continue POC after this course.)\"",
-      "lg": "1",
-      "category": "Simple steps for Seniors to book a seat.",
-      "name": "",
-      "website": "",
-      "summary": "",
-      "screenshot": "./img/",
-      "headline": ""
-  },
-  {
-      "developer": "TianYun Chen",
-      "lg": "1",
-      "category": "sports",
-      "name": "",
-      "website": "",
-      "summary": "",
-      "screenshot": "./img/",
-      "headline": ""
-  },
-  {
-      "developer": "Vincent Li",
-      "lg": "1",
-      "category": "Education",
-      "name": "SG Sign Intro",
-      "website": "sgsignintro.com",
-      "summary": "Users can type in the sentence that they want to learn the terms to and the GIF of the corresponding SgSL signs will appear on the bottom of the page.",
-      "screenshot": "./img/",
-      "headline": "Users can type in the sentence that they want to learn the terms"
-  },
-  {
-      "developer": "Andy Choi",
-      "lg": "1",
-      "category": "Work",
-      "name": "Wriggleroom",
-      "website": "wriggleroom.work",
-      "summary": "WriggleRoom helps users search for a meeting room according to date, time range, and the number of attendees for the meeting. It only works for 1 building for now, and assumes that every room has the same equipment, therefore the only variables to search for is the date time, and number of attendees.\nIf a room is available, an option is there for user to book. If it is not, the list of unavailable  rooms matching the requirements will be shown, and the user can broadcast a request to ask the users who booked the room if they would like to release the room.\nAn SMS is sent to the booking room holders, and they have options to accept the request and release the room to the requestor. Once request is accepted, the room booking is swapped to the requestor.\nFor each request fulfilled, the user who accepted the request gets 'appreciate you' points, and will climb up a leaderboard. For the requestors, their usage count goes up, and also appears on a different leaderboard.",
-      "screenshot": "./img/",
-      "headline": "WriggleRoom helps users search for a meeting room according to date, time range, and the number of attendees for the meeting"
-  },
-  {
-      "developer": "Kenneth Wong",
-      "lg": "1",
-      "category": "Food/ Drinks",
-      "name": "Dine",
-      "website": "0d9f16265acff458c150de8c461ce1cb",
-      "summary": "Dine is a web app that helps users quickly find dining options based on location and dietary filters. Designed for busy individuals, its simple and mobile-optimized interface ensures a seamless experience, enabling users to make quick and informed meal decisions on the go.",
-      "screenshot": "./img/",
-      "headline": "Dine is a web app that helps users quickly find dining options based on location and dietary filters"
-  },
-  {
-      "developer": "Jasmine Leong",
-      "lg": "1",
-      "category": "Food/ Drinks",
-      "name": "BubbleTeaGoWhere",
-      "website": "bubbleteagowhere.com",
-      "summary": "BubbleTeaGoWhere is a directory for Bubble Tea Fans to look for their next drink in Singapore! Users can search from a consolidated list of drinks and its prices, as well as shops near them.",
-      "screenshot": "./img/",
-      "headline": "BubbleTeaGoWhere is a directory for Bubble Tea Fans to look for their next drink in Singapore!"
-  },
-  {
-      "developer": "Colin Chan",
-      "lg": "1",
-      "category": "Finance",
-      "name": "Proper.ly",
-      "website": "https://properly.colinchan.co/",
-      "summary": "Takes in up to 3 PropertyGuru listings, parses the html, then outputs a comparative listings report that can be saved as a pdf.",
-      "screenshot": "./img/",
-      "headline": "Takes in up to 3 PropertyGuru listings, parses the html, then outputs a comparative listings report "
-  },
-  {
-      "developer": "Audrey Hau",
-      "lg": "1",
-      "category": "Food/ Drinks",
-      "name": "Thirst Trap",
-      "website": "https://thirst-trap.org/",
-      "summary": "Thirst Trap is a web app targeted at young working adults (mainly millenials in their mid 20s to 30s) that are budget-conscious, but also keen to maintain a healthy social life by hanging at bars with their friends. It provides a quick overview of bars with happy hours (the window within which drinks are usually much more affordable), and allows users to filter for key criteria before deciding on which bar to patronise. ",
-      "screenshot": "./img/",
-      "headline": "Thirst Trap is a web app targeted at young working adults (mainly millenials in their mid 20s to 30s) that are budget-conscious"
-  },
-  {
-      "developer": "Teo Kean Loong (Josh)",
-      "lg": "1",
-      "category": "Health",
-      "name": "Conscious Spaces",
-      "website": "https://consciousspaces.org",
-      "summary": "Conscious spaces is a well-being space to help Gen Z navigate their life consciously. they're able to asses their current state of mental, emotional and work related well-being. They can explore activites and materials to work on stress resiliency.",
-      "screenshot": "./img/",
-      "headline": "Conscious spaces is a well-being space to help Gen Z navigate their life consciously"
-  },
-  {
-      "developer": "Darren Wong",
-      "lg": "1",
-      "category": "Food/ Drinks",
-      "name": "Bite Right",
-      "website": "https://biteright.online/",
-      "summary": "BiteRight Online is a meal planning app designed to help users make smarter food choices. It tailors meal plans based on personal preferences, dietary needs, and health goals, making it easy to plan nutritious meals for a healthier lifestyle.",
-      "screenshot": "./img/",
-      "headline": "BiteRight Online is a meal planning app designed to help users make smarter food choices."
-  },
-  {
-      "developer": "Wong Guan Min",
-      "lg": "1",
-      "category": "Food/ Drinks",
-      "name": "Booze Buddy",
-      "website": "https://b00zebuddy.com/",
-      "summary": "A web app that acts as a virtual bartender, offering users customized cocktail and mocktail suggestions based on their preferences and dietary goals. Users can input parameters such as flavor profile, alcohol alcohol preference, and calorie intake to receive a curated list of drink options that fit their criteria. Each suggested drink includes a nutritional breakdown and a recipe, making it easy to understand and prepare.",
-      "screenshot": "./img/",
-      "headline": "A web app that acts as a virtual bartender, offering users customized cocktail and mocktail "
-  },
-  {
-      "developer": "Yip Sze Kay",
-      "lg": "1",
-      "category": "Social Needs",
-      "name": "Get Recced",
-      "website": "get-recced.com",
-      "summary": "Get Recced is a one-stop shop for making and sharing recommendations with the people you know and love. Make your list, link your recs, then share with your connections!",
-      "screenshot": "./img/",
-      "headline": "Get Recced is a one-stop shop for making and sharing recommendations with the people you know and love."
-  },
-  {
-      "developer": "Mary Ng",
-      "lg": "1",
-      "category": "Environment",
-      "name": "Recycle Lah",
-      "website": "www.recyclelah.org",
-      "summary": "A user-friendly web application designed to provide clear, accessible recycling information to senior citizens. \nKey features include:\n- An intuitive interface for senior citizens to quickly find recycling information for specific items\n- Clear categorization of recyclable and non-recyclable items\n- Information on the type of recycling bins to use for recyclable items\n- Multi-language support",
-      "screenshot": "./img/",
-      "headline": "designed to provide clear, accessible recycling information to senior citizens. "
-  },
-  {
-      "developer": "Jocelyn Teo",
-      "lg": "1",
-      "category": "Food/ Drinks",
-      "name": "www.food-genie.com",
-      "website": "www.food-genie.com",
-      "summary": "a MVP website showing my blog, curated sources of allergy friendly recipes and food places",
-      "screenshot": "./img/",
-      "headline": "my blog, curated sources of allergy friendly recipes and food places"
-  },
-  {
-      "developer": "Alan Tang",
-      "lg": "1",
-      "category": "Education",
-      "name": "Oliver's Magical Friends",
-      "website": "https://ollies-magical-friends.xyz",
-      "summary": "NA",
-      "screenshot": "./img/",
-      "headline": ""
-  },
-  {
-      "developer": "Michelle Yeo",
-      "lg": "1",
-      "category": "Social Needs",
-      "name": "",
-      "website": "",
-      "summary": "",
-      "screenshot": "./img/",
-      "headline": ""
-  },
-  {
-      "developer": "Don Lim",
-      "lg": "1",
-      "category": "Education",
-      "name": "Parent GoWhere",
-      "website": "parentgowhere.com",
-      "summary": "This Web App will allow parents to:\n1. Discover SkillsFuture-eligible courses based on their location\n2. Filter and sort course results by proximity, helping parents utilise their free time effectively by finding learning options nearby\n",
-      "screenshot": "./img/",
-      "headline": " Discover SkillsFuture-eligible courses based on their location"
-  },
-  {
-      "developer": "Clare Low",
-      "lg": "1",
-      "category": "Work",
-      "name": "The OD Stack",
-      "website": "thecODistack.com",
-      "summary": "The OD Stack aims to be a centralized, accessible resource that will aid leaders in integrating OD practices into daily routines, enhancing team alignment, communication, and organizational effectiveness.\nIt offers access to the slate of OD frameworks learnt by the organisation's leaders, as well as current articles and tools/resources to keep abreast of leadership and OD trends in the global field.",
-      "screenshot": "./img/",
-      "headline": "The OD Stack aims to be a centralized, accessible resource that will aid leaders in integrating OD practices"
-  },
-  {
-      "developer": "Chloe Yao",
-      "lg": "1",
-      "category": "Social Needs",
-      "name": "99 Cents Daily Gratitude",
-      "website": "99centsdailygratitude.com",
-      "summary": "The 99C Daily Gratitude App seeks to build a habit of regular feedback for users. Inspired by the concept of daily compounding, it allocates users a small daily budget to send to anyone who has made even a small difference in their day along with a personalised message. It tracks users’ current streaks and longest streaks of daily appreciation to gamify the experience and encourage continuity.\nRequires login:\njohn@example.com\npassword: password1",
-      "screenshot": "./img/",
-      "headline": "The 99C Daily Gratitude App seeks to build a habit of regular feedback for users."
-  },
-  {
-      "developer": "Phua Yi Hui",
-      "lg": "1",
-      "category": "Work",
-      "name": "",
-      "website": "",
-      "summary": "",
-      "screenshot": "./img/",
-      "headline": ""
-  },
-  {
-      "developer": "Wong Choon Bong",
-      "lg": "1",
-      "category": "Finance",
-      "name": "",
-      "website": "",
-      "summary": "",
-      "screenshot": "./img/",
-      "headline": ""
-  },
-  {
-      "developer": "Kelly Ng",
-      "lg": "1",
-      "category": "Social Needs",
-      "name": "Where Can Lepak",
-      "website": "www.wherecanlepak.ngkelly.com",
-      "summary": "NA",
-      "screenshot": "./img/",
-      "headline": "NA"
-  },
-  {
-      "developer": "Yeo Soo BIn",
-      "lg": "1",
-      "category": "Work",
-      "name": "Buddy for Emerging Trends Scanning (BETS)",
-      "website": "https://b4ets.org/",
-      "summary": "1, Landing page describes problem definition and extant User Journey, pain points & \"\"asks\"\". Also shows features of WebApp\n2. Overview page explains design philosopjhy, Envisaged Architecture, and architecture-in-place.\n3. Focused Search page presents pre-programmed customised search engine to remove pain point of syntax-based configuration of searches\n4. Editor page presents results of search in tabular form, and allows input of editor's comments for each article. Alleviate pain point of \"\"too many cut & paste\"\" for editing product\nNot yet implemented\n5. Auto-publish of edited product using Google AppSheets.Will remove pain point of manually emailing product to consumers. Not implemented yet as it is a paid service, and need to evaluate value first.\n6. Integration with LLM to assist in digesting articles. Will remove pain point of having \"\"too much to read\"\". Manual porting of articles into Google NotebookLM as interim. Will add feature once NotebookLM or equivalent publish APIs.\n7. Podcase production with NotebookLM. Will allevate pain point of no alternative modes for consumption.",
-      "screenshot": "./img/",
-      "headline": "Landing page describes problem definition and extant User Journey, pain points"
-  },
-  {
-      "developer": "Edgar Ang",
-      "lg": "1",
-      "category": "Finance",
-      "name": "sgMiles",
-      "website": "www.flymiles.cc",
-      "summary": "Credit card users looking to redeem air tickets using reward points face challenges due to varying points systems across cards/banks. They must manually calculate, convert, consolidate points across multiple cards and track progress to determine balances and shortfalls, resulting in significant time and effort spent at least once a month to review their bank statements and manage conversions.",
-      "screenshot": "./img/",
-      "headline": "Credit card users looking to redeem air tickets using reward points face challenges due to varying points systems across cards/banks."
-  },
-  {
-      "developer": "Thong Hui Min",
-      "lg": "1",
-      "category": "Food/ Drinks",
-      "name": "Plan to Plate",
-      "website": "https://healthmeals.org/ ",
-      "summary": "Plan to Plate is a user-friendly meal planner designed for busy professionals who want to eat healthy homecooked meals without much hassle. The app offers a curated selection of simple, nutritious recipes that are quick and easy to prepare. Once a meal is selected, Plan to Plate automatically generates a personalised grocery list based on the number of days the user plans to make that meal",
-      "screenshot": "./img/",
-      "headline": "Plan to Plate is a user-friendly meal planner designed for busy professionals who want to eat healthy homecooked meals without much hassle"
-  },
-  {
-      "developer": "Karen Quek",
-      "lg": "1",
-      "category": "Work",
-      "name": "Cyber Gauge",
-      "website": "www.cybergauge-karenqjy.me",
-      "summary": "NA",
-      "screenshot": "./img/",
-      "headline": "NA"
-  },
-  {
-      "developer": "Nur Syahidah Sahrom",
-      "lg": "1",
-      "category": "Health",
-      "name": "",
-      "website": "",
-      "summary": "",
-      "screenshot": "./img/",
-      "headline": ""
-  },
-  {
-      "developer": "Beatrice Sanders",
-      "lg": "1",
-      "category": "Social Needs",
-      "name": "",
-      "website": "",
-      "summary": "",
-      "screenshot": "./img/",
-      "headline": ""
-  },
-  {
-      "developer": "Ernest Tan ",
-      "lg": "1",
-      "category": "sports",
-      "name": "HoopHubSG",
-      "website": "HoopHub.org",
-      "summary": "HoopHubSG consolidates key data points and basic features for fantasy NBA basketball players to help them make quicker and more informed decisions on whether to change their team rosters.",
-      "screenshot": "./img/",
-      "headline": "HoopHubSG consolidates key data points and basic features for fantasy NBA basketball players"
-  },
-  {
-      "developer": "Ivan Tan",
-      "lg": "1",
-      "category": "Food/ Drinks",
-      "name": "EatWhat",
-      "website": "EatWhat.org",
-      "summary": "NA",
-      "screenshot": "./img/",
-      "headline": "NA"
-  },
-  {
-      "developer": "Lim Tze Min",
-      "lg": "1",
-      "category": "Work",
-      "name": "Product Design Game",
-      "website": "productdesigngame.org",
-      "summary": "This is a POC of how a \"\"Choose Your Own Adventure\"\" style game, about the process of designing a web app, can be used as a teaching aid to teach Product Design.",
-      "screenshot": "./img/",
-      "headline": "\"\"Choose Your Own Adventure\"\" style game, about the process of designing a web app"
-  },
-  {
-      "developer": "Klara Wu",
-      "lg": "1",
-      "category": "Education",
-      "name": "Enrich Ease",
-      "website": "www.enrichease.com",
-      "summary": "Enrich ease is a enrichment class comparison tool to help parents of preschool children choose the best enrichment classes. By consolidating key information like cost, location, schedule, class size, and enrolment process into a single platform, Enrich Ease makes it easy to compare multiple options at a glance. Features like parent reviews, trial class booking, and direct enrolment links reduce research time and decision fatigue, ensuring the best opportunities for your child with minimal stress",
-      "screenshot": "./img/",
-      "headline": "Enrich ease is a enrichment class comparison tool to help parents of preschool children choose the best enrichment classes"
-  },
-  {
-      "developer": "Adrian Tang",
-      "lg": "1",
-      "category": "sports",
-      "name": "",
-      "website": "",
-      "summary": "",
-      "screenshot": "./img/",
-      "headline": ""
-  },
-  {
-      "developer": "Chiang Jin Li",
-      "lg": "1",
-      "category": "Health",
-      "name": "Habit is Life",
-      "website": "https://myhabitmylife123.work/",
-      "summary": "Habit is Life is a simple app that helps people who want to work on improving their life by stating their goal and following through their habit. It offers a simple 7-day tracker and the user will always have sight of their goal while tracking if they have completed their habit. ",
-      "screenshot": "./img/",
-      "headline": "Habit is Life is a simple app that helps people who want to work on improving their life"
-  },
-  {
-      "developer": "Chua Hong En",
-      "lg": "1",
-      "category": "Work",
-      "name": "ASC Academy website",
-      "website": "https://ascacademy7878.org",
-      "summary": "ASC Academy website displays leadership and technical course offerings by ASC Academy.\nWebsite also lists the instructors and their experiences.\nASC Website lets interested participants to register for upcoming courses and for both potential participants and collaborators to contact ASC Academy staff through the website\n",
-      "screenshot": "./img/",
-      "headline": "ASC Academy website displays leadership and technical course offerings by ASC Academy."
-  },
-  {
-      "developer": "Lee Mian Jun",
-      "lg": "1",
-      "category": "Finance",
-      "name": "CPF Optimiser",
-      "website": "cpfoptimiser.com",
-      "summary": "This web app will recommend CPF products to optimise financial planning, savings and growth, based on the user's age and saving goal, and arrange from lowest effort to highest effort, with direct links to the application site and an estimated amount of time required for each action.",
-      "screenshot": "./img/",
-      "headline": "This web app will recommend CPF products to optimise financial planning, savings and growth"
-  },
-  {
-      "developer": "Yvonne Pinches",
-      "lg": "1",
-      "category": "Environment",
-      "name": "Community Club Book Drop/Pick-up Points",
-      "website": "https://tupbooksgowhere.cc",
-      "summary": "This web app addresses the issue of book waste by offering a platform where users can find local community centers to drop off gently used books. It also enables users to search for specific books whether for recreational or educational purposes at nearby community centres. In addition to reducing waste, the app supports lower-income families by facilitating access to free books. The platform connects donors with convenient drop-off locations and helps people find the books they need, promoting a more sustainable and equitable way to share resources in the community.\n",
-      "screenshot": "./img/",
-      "headline": "This web app addresses the issue of book waste by offering a platform"
-  },
-  {
-      "developer": "Desmond Loo",
-      "lg": "1",
-      "category": "Work",
-      "name": "",
-      "website": "",
-      "summary": "",
-      "screenshot": "./img/",
-      "headline": ""
-  },
-  {
-      "developer": "Sim Han Qiang ",
-      "lg": "1",
-      "category": "Environment",
-      "name": "Aerosol Injection\n",
-      "website": "https://simhanqiang.com/",
-      "summary": "A web app that explains what aerosol injection is, its beneifts and concerns through the use of AI.",
-      "screenshot": "./img/",
-      "headline": "A web app that explains what aerosol injection is"
-  },
-  {
-      "developer": "Ashley Yap",
-      "lg": "1",
-      "category": "Finance",
-      "name": "Innovation Hub",
-      "website": "Investforgood.co",
-      "summary": "NA",
-      "screenshot": "./img/",
-      "headline": "na"
-  },
-  {
-      "developer": "Xie Yongcong",
-      "lg": "1",
-      "category": "Education",
-      "name": "Digital Tool Advisor",
-      "website": "https://digital-tool.work",
-      "summary": "My web app aims to help busy teachers navigate the digital landscape, by recommending specific digital tools based on their use cases. This will help reduce the time needed for them to research and understand these tools, hence empowering them to focus on their core duties such as Teaching and Learning (T&L) and holistic development of their students.",
-      "screenshot": "./img/",
-      "headline": "My web app aims to help busy teachers navigate the digital landscape, by recommending specific digital tools based on their use cases"
-  },
-  {
-      "developer": "Dawn Tay",
-      "lg": "1",
-      "category": "Food/ Drinks",
-      "name": "Food Waste Warrior",
-      "website": "https://food-waste-warrior.com/",
-      "summary": "5 min is all it takes for user to be glorified as MDDI's food waste warrior - someone who contributes in minimising food waste and unneeded spending on MDDI's buffet lines.",
-      "screenshot": "./img/",
-      "headline": "5 min is all it takes for user to be glorified as MDDI's food waste warrior "
-  },
-  {
-      "developer": "Raymond Huynh",
-      "lg": "1",
-      "category": "Food/ Drinks",
-      "name": "",
-      "website": "",
-      "summary": "",
-      "screenshot": "./img/",
-      "headline": ""
-  },
-  {
-      "developer": "Nelle Ng",
-      "lg": "1",
-      "category": "Food/ Drinks",
-      "name": "Lunch Buddy",
-      "website": "",
-      "summary": "",
-      "screenshot": "./img/",
-      "headline": ""
-  },
-  {
-      "developer": "Sean Teo",
-      "lg": "1",
-      "category": "Work",
-      "name": "Mentee-Meets-Mentor (MMM)",
-      "website": "https://mentee-meets-mentor.app/",
-      "summary": "Mentee-Meets-Mentor is here to e(M)power public officers on their tech mentorship journey. The platform offers a seamless way to explore and search for an ideal mentor from a diverse pool of experienced professionals across MDDI. With just a few clicks, mentees can filter and shortlist mentors based on their unique needs and goals, before booking a 30-minute intro mentor chat within the next two weeks to assess compatibility and kickstart your mentorship journey. ",
-      "screenshot": "./img/",
-      "headline": "Mentee-Meets-Mentor is here to e(M)power public officers on their tech mentorship journey."
-  },
-  {
-      "developer": "Heather Humphries",
-      "lg": "1",
-      "category": "Food/ Drinks",
-      "name": "CheapCleanEats",
-      "website": "https://cheapcleaneats.life/",
-      "summary": "This web app provides diabetic-friendly affordable (<$15) meal recommendations in Singapore for diabetic users seeking  low carb/low-GI/low/no-sugar/low calorie meal or snack options. \nFor the working adult who may struggle for healthy food inspiration, the web app also has a random meal recommendation.",
-      "screenshot": "./img/",
-      "headline": "This web app provides diabetic-friendly affordable (<$15) meal recommendations"
-  },
-  {
-      "developer": "Kenneth Yeow",
-      "lg": "1",
-      "category": "Food/ Drinks",
-      "name": "Kopipro",
-      "website": "https://kopi-pro.com/",
-      "summary": "This web app helps tourists looking to enjoy a cup of local coffee or tea to easily navigate the ordering process and understand what goes into their drink",
-      "screenshot": "./img/kopi.webp",
-      "headline": "This web app helps tourists looking to enjoy a cup of local coffee or te"
-  }
-]
+    {
+        "developer": "Majella Woo",
+        "lg": "1",
+        "category": "sports",
+        "name": "Littletrails!",
+        "website": "https://littletrails.org",
+        "summary": "Littletrails suggests jogging routes for jogging enthusiasts, according to their preference/needs (e.g. terrain, distance, amount of shelter).  Recognising that this primarily targets users who are jogging with their fellow companions on weekends, upon filtering, within suggested page, it would also provide information on interesting sights (e.g. animals) to look out for, and where to stop for a drink/meal post-jog.",
+        "screenshot": "./img/littletrails.webp",
+        "headline": "Littletrails suggests jogging routes for jogging enthusiasts, according to their preference/needs"
+    },
+    {
+        "developer": "Lawrence Seng",
+        "lg": "1",
+        "category": "sports",
+        "name": "Fing-My-Coach",
+        "website": "https://tennis-for-life.com/",
+        "summary": "Find-My-Coach app allows tennis players who wants to sharpen their skills on a last minute basis and need to find an available coach. Assumption includes the tennis court availabity and price is not an issue.  ",
+        "screenshot": "./img/tennis.webp",
+        "headline": "Find-My-Coach app allows tennis players who wants to sharpen their skills on a last minute basis and need to find an available coach"
+    },
+    {
+        "developer": "Poh Kheng Thong",
+        "lg": "1",
+        "category": "work",
+        "name": "SG Co-working Office Finder",
+        "website": "https://www.sgcoofficefinder.com/",
+        "summary": "This web application provides personalized recommendations and guidance for users seeking co-working offices in their vicinity. By alleviating overcrowding in popular business districts and reducing congestion on public transport during peak hours, it promotes a more sustainable commuting experience. Additionally, it encourages users to adopt active transportation options, such as cycling and walking, fostering a healthier lifestyle.\nKey Features:\nFlexible Access: The app supports both anonymous browsing and authenticated access through Google Sign-In.\nPersonalized Recommendations: For signed-in users, the app offers the option to provide basic information (optional), such as home address, primary office address, and preferred mode of transport. This data helps tailor recommendations to meet individual needs.\nCo-working Office Discovery: Users can browse a list of nearby co-working offices, which can be sorted by either distance or estimated travel time from their current location or an entered address.\nInteractive Mapping: The application displays the user’s current location and outlines the route to their selected co-working office using Google Maps, ensuring an easy navigation experience.\nWeather Insights: Users receive real-time weather forecasts and temperature data sourced from the NEA 24-Hour Weather Forecast API. This information assists users in making informed decisions regarding their mode of transportation.\nTime-Saving Alerts: The app highlights potential time savings when opting for co-working offices closer than their primary workplace, along with emphasizing the benefits of alternative transportation methods like cycling.",
+        "screenshot": "./img/coofffinder.webp",
+        "headline": "personalized recommendations and guidance for users seeking co-working offices in their vicinity"
+    },
+    {
+        "developer": "Olivia Kam",
+        "lg": "1",
+        "category": "sports",
+        "name": "Sport On",
+        "website": "https://sporton.site/",
+        "summary": "This web app allows casual sports enthusiasts who are exploring a new sport, to rent relevant equipment (not inclusive of wearable gear) from other people for a period of time, at a lower cost, and in their vicinity. Rental profiles include their listings, as well as ratings and testimonies from past exchanges, for users to gain an insight of the credibility of equipment owners. Users can also reach out to these owners (if they indicated in their profile) to play the sport together, addressing users' pain points of cost of equipment and lack of friends to play the sport together with. ",
+        "screenshot": "./img/sporton.webp",
+        "headline": "This web app allows casual sports enthusiasts who are exploring a new sport, to rent relevant equipment"
+    },
+    {
+        "developer": "Fiona Tan",
+        "lg": "1",
+        "category": "work",
+        "name": "Conservation Compendium",
+        "website": "https://conservationcompendium.com/",
+        "summary": "A mobile responsive web app that provides a quick visual reference for non-specialists to find out more about condition terms. It contains basic definitions, allows filtering by material type, and contains detailed pages including visuals and additional information like what treatment options are commonly available or what precautions should be taken.",
+        "screenshot": "./img/conservation.webp",
+        "headline": "A mobile responsive web app that provides a quick visual reference for non-specialists to find out more about condition terms"
+    },
+    {
+        "developer": "Angela Wu",
+        "lg": "1",
+        "category": "education",
+        "name": "Interact",
+        "website": "https://angelawph.com/",
+        "summary": "Website for participant to submit anonymous question based on listed events or event name that was previously created.\nParticipant can upvote submitted questions.\nSpeaker can select checkbox which greys out the answered question\nSpeaker can select Answer offline which greys out the answered question",
+        "screenshot": "./img/interact.webp",
+        "headline": "Website for participant to submit anonymous question based on listed events or event name that was previously created."
+    },
+    {
+        "developer": "Nicholas Ling",
+        "lg": "1",
+        "category": "sports",
+        "name": "RunBuddy",
+        "website": "https://runbuddy.run",
+        "summary": "NA",
+        "screenshot": "./img/runbuddy.webp",
+        "headline": "NA"
+    },
+    {
+        "developer": "Charlene Zeng",
+        "lg": "1",
+        "category": "education",
+        "name": "Weekend do what?",
+        "website": "weekend-do-what.org",
+        "summary": "The web app provides recommendations of activities to do with kids. It can be filtered according to (a) age group, (b) activity type (indoor/outdoor), and (c) cost (free/paid). The activity provides a clickable link to a recommendation. ",
+        "screenshot": "./img/weekenddo.webp",
+        "headline": "The web app provides recommendations of activities to do with kids"
+    },
+    {
+        "developer": "Rita Goh",
+        "lg": "1",
+        "category": "social-needs",
+        "name": "Book a Seat!",
+        "website": "https://www.bookaseat.org",
+        "summary": "Simple steps for Seniors to book a seat.\nStep 1 : Scan QR code on table.\nStep 2: Complete simple details like FirstName, LastName, Email or Mobile number, so we personalise services (future roadmap) to you.\nLast step: Choose seat.\n\"\"You have a seat confirmed for you at B2 location! Starting from hhmmss, you have 60mins!\"",
+        "screenshot": "./img/seatbook.webp",
+        "headline": "Simple steps for Seniors to book a seat."
+    },
+    {
+        "developer": "TianYun Chen",
+        "lg": "1",
+        "category": "sports",
+        "name": "",
+        "website": "",
+        "summary": "",
+        "screenshot": "./img/",
+        "headline": ""
+    },
+    {
+        "developer": "Vincent Li",
+        "lg": "1",
+        "category": "education",
+        "name": "SG Sign Intro",
+        "website": "https://sgsignintro.com",
+        "summary": "Users can type in the sentence that they want to learn the terms to and the GIF of the corresponding SgSL signs will appear on the bottom of the page.",
+        "screenshot": "./img/signlang.webp",
+        "headline": "Users can type in the sentence that they want to learn the terms"
+    },
+    {
+        "developer": "Andy Choi",
+        "lg": "1",
+        "category": "work",
+        "name": "Wriggleroom",
+        "website": "https://wriggleroom.work",
+        "summary": "WriggleRoom helps users search for a meeting room according to date, time range, and the number of attendees for the meeting. It only works for 1 building for now, and assumes that every room has the same equipment, therefore the only variables to search for is the date time, and number of attendees.\nIf a room is available, an option is there for user to book. If it is not, the list of unavailable  rooms matching the requirements will be shown, and the user can broadcast a request to ask the users who booked the room if they would like to release the room.\nAn SMS is sent to the booking room holders, and they have options to accept the request and release the room to the requestor. Once request is accepted, the room booking is swapped to the requestor.\nFor each request fulfilled, the user who accepted the request gets 'appreciate you' points, and will climb up a leaderboard. For the requestors, their usage count goes up, and also appears on a different leaderboard.",
+        "screenshot": "./img/wiggle.webp",
+        "headline": "WriggleRoom helps users search for a meeting room according to date, time range, and the number of attendees for the meeting"
+    },
+    {
+        "developer": "Kenneth Wong",
+        "lg": "1",
+        "category": "food-drinks",
+        "name": "Dine",
+        "website": "0d9f16265acff458c150de8c461ce1cb",
+        "summary": "Dine is a web app that helps users quickly find dining options based on location and dietary filters. Designed for busy individuals, its simple and mobile-optimized interface ensures a seamless experience, enabling users to make quick and informed meal decisions on the go.",
+        "screenshot": "",
+        "headline": "Dine is a web app that helps users quickly find dining options based on location and dietary filters"
+    },
+    {
+        "developer": "Jasmine Leong",
+        "lg": "1",
+        "category": "food-drinks",
+        "name": "BubbleTeaGoWhere",
+        "website": "https://bubbleteagowhere.com",
+        "summary": "BubbleTeaGoWhere is a directory for Bubble Tea Fans to look for their next drink in Singapore! Users can search from a consolidated list of drinks and its prices, as well as shops near them.",
+        "screenshot": "./img/bubbletea.webp",
+        "headline": "BubbleTeaGoWhere is a directory for Bubble Tea Fans to look for their next drink in Singapore!"
+    },
+    {
+        "developer": "Colin Chan",
+        "lg": "1",
+        "category": "finance",
+        "name": "Proper.ly",
+        "website": "https://properly.colinchan.co/",
+        "summary": "Takes in up to 3 PropertyGuru listings, parses the html, then outputs a comparative listings report that can be saved as a pdf.",
+        "screenshot": "./img/properly.webp",
+        "headline": "Takes in up to 3 PropertyGuru listings, parses the html, then outputs a comparative listings report "
+    },
+    {
+        "developer": "Audrey Hau",
+        "lg": "1",
+        "category": "food-drinks",
+        "name": "Thirst Trap",
+        "website": "https://thirst-trap.org/",
+        "summary": "Thirst Trap is a web app targeted at young working adults (mainly millenials in their mid 20s to 30s) that are budget-conscious, but also keen to maintain a healthy social life by hanging at bars with their friends. It provides a quick overview of bars with happy hours (the window within which drinks are usually much more affordable), and allows users to filter for key criteria before deciding on which bar to patronise. ",
+        "screenshot": "./img/thirsttrap.webp",
+        "headline": "Thirst Trap is a web app targeted at young working adults (mainly millenials in their mid 20s to 30s) that are budget-conscious"
+    },
+    {
+        "developer": "Teo Kean Loong (Josh)",
+        "lg": "1",
+        "category": "health",
+        "name": "Conscious Spaces",
+        "website": "https://consciousspaces.org",
+        "summary": "Conscious spaces is a well-being space to help Gen Z navigate their life consciously. they're able to asses their current state of mental, emotional and work related well-being. They can explore activites and materials to work on stress resiliency.",
+        "screenshot": "./img/mental.webp",
+        "headline": "Conscious spaces is a well-being space to help Gen Z navigate their life consciously"
+    },
+    {
+        "developer": "Darren Wong",
+        "lg": "1",
+        "category": "food-drinks",
+        "name": "Bite Right",
+        "website": "https://biteright.online/",
+        "summary": "BiteRight Online is a meal planning app designed to help users make smarter food choices. It tailors meal plans based on personal preferences, dietary needs, and health goals, making it easy to plan nutritious meals for a healthier lifestyle.",
+        "screenshot": "./img/biteright.webp",
+        "headline": "BiteRight Online is a meal planning app designed to help users make smarter food choices."
+    },
+    {
+        "developer": "Wong Guan Min",
+        "lg": "1",
+        "category": "food-drinks",
+        "name": "Booze Buddy",
+        "website": "https://b00zebuddy.com/",
+        "summary": "A web app that acts as a virtual bartender, offering users customized cocktail and mocktail suggestions based on their preferences and dietary goals. Users can input parameters such as flavor profile, alcohol alcohol preference, and calorie intake to receive a curated list of drink options that fit their criteria. Each suggested drink includes a nutritional breakdown and a recipe, making it easy to understand and prepare.",
+        "screenshot": "./img/boozybuddy.webp",
+        "headline": "A web app that acts as a virtual bartender, offering users customized cocktail and mocktail "
+    },
+    {
+        "developer": "Yip Sze Kay",
+        "lg": "1",
+        "category": "social-needs",
+        "name": "Get Recced",
+        "website": "https://get-recced.com",
+        "summary": "Get Recced is a one-stop shop for making and sharing recommendations with the people you know and love. Make your list, link your recs, then share with your connections!",
+        "screenshot": "./img/get-recced.webp",
+        "headline": "Get Recced is a one-stop shop for making and sharing recommendations with the people you know and love."
+    },
+    {
+        "developer": "Mary Ng",
+        "lg": "1",
+        "category": "environment",
+        "name": "Recycle Lah",
+        "website": "https://www.recyclelah.org",
+        "summary": "A user-friendly web application designed to provide clear, accessible recycling information to senior citizens. \nKey features include:\n- An intuitive interface for senior citizens to quickly find recycling information for specific items\n- Clear categorization of recyclable and non-recyclable items\n- Information on the type of recycling bins to use for recyclable items\n- Multi-language support",
+        "screenshot": "./img/recyclinginfo.webp",
+        "headline": "designed to provide clear, accessible recycling information to senior citizens. "
+    },
+    {
+        "developer": "Jocelyn Teo",
+        "lg": "1",
+        "category": "food-drinks",
+        "name": "www.food-genie.com",
+        "website": "https://www.food-genie.com",
+        "summary": "a MVP website showing my blog, curated sources of allergy friendly recipes and food places",
+        "screenshot": "./img/foodgenie.webp",
+        "headline": "my blog, curated sources of allergy friendly recipes and food places"
+    },
+    {
+        "developer": "Alan Tang",
+        "lg": "1",
+        "category": "education",
+        "name": "Oliver's Magical Friends",
+        "website": "https://ollies-magical-friends.xyz",
+        "summary": "NA",
+        "screenshot": "./img/olivermagicalfriends",
+        "headline": ""
+    },
+    {
+        "developer": "Michelle Yeo",
+        "lg": "1",
+        "category": "social-needs",
+        "name": "",
+        "website": "",
+        "summary": "",
+        "screenshot": "./img/",
+        "headline": ""
+    },
+    {
+        "developer": "Don Lim",
+        "lg": "1",
+        "category": "education",
+        "name": "Parent GoWhere",
+        "website": "https://parentgowhere.com",
+        "summary": "This Web App will allow parents to:\n1. Discover SkillsFuture-eligible courses based on their location\n2. Filter and sort course results by proximity, helping parents utilise their free time effectively by finding learning options nearby\n",
+        "screenshot": "./img/parent.webp",
+        "headline": " Discover SkillsFuture-eligible courses based on their location"
+    },
+    {
+        "developer": "Clare Low",
+        "lg": "1",
+        "category": "work",
+        "name": "The OD Stack",
+        "website": "https://thecODistack.com",
+        "summary": "The OD Stack aims to be a centralized, accessible resource that will aid leaders in integrating OD practices into daily routines, enhancing team alignment, communication, and organizational effectiveness.\nIt offers access to the slate of OD frameworks learnt by the organisation's leaders, as well as current articles and tools/resources to keep abreast of leadership and OD trends in the global field.",
+        "screenshot": "./img/odstack.webp",
+        "headline": "The OD Stack aims to be a centralized, accessible resource that will aid leaders in integrating OD practices"
+    },
+    {
+        "developer": "Chloe Yao",
+        "lg": "1",
+        "category": "social-needs",
+        "name": "99 Cents Daily Gratitude",
+        "website": "https://99centsdailygratitude.com",
+        "summary": "The 99C Daily Gratitude App seeks to build a habit of regular feedback for users. Inspired by the concept of daily compounding, it allocates users a small daily budget to send to anyone who has made even a small difference in their day along with a personalised message. It tracks users’ current streaks and longest streaks of daily appreciation to gamify the experience and encourage continuity.\nRequires login:\njohn@example.com\npassword: password1",
+        "screenshot": "./img/99daily.webp",
+        "headline": "The 99C Daily Gratitude App seeks to build a habit of regular feedback for users."
+    },
+    {
+        "developer": "Phua Yi Hui",
+        "lg": "1",
+        "category": "work",
+        "name": "",
+        "website": "",
+        "summary": "",
+        "screenshot": "./img/",
+        "headline": ""
+    },
+    {
+        "developer": "Wong Choon Bong",
+        "lg": "1",
+        "category": "finance",
+        "name": "",
+        "website": "",
+        "summary": "",
+        "screenshot": "./img/",
+        "headline": ""
+    },
+    {
+        "developer": "Kelly Ng",
+        "lg": "1",
+        "category": "social-needs",
+        "name": "Where Can Lepak",
+        "website": "https://www.wherecanlepak.ngkelly.com",
+        "summary": "NA",
+        "screenshot": "./img/lepak.webp",
+        "headline": "NA"
+    },
+    {
+        "developer": "Yeo Soo BIn",
+        "lg": "1",
+        "category": "work",
+        "name": "Buddy for Emerging Trends Scanning (BETS)",
+        "website": "https://b4ets.org/",
+        "summary": "1, Landing page describes problem definition and extant User Journey, pain points & \"\"asks\"\". Also shows features of WebApp\n2. Overview page explains design philosopjhy, Envisaged Architecture, and architecture-in-place.\n3. Focused Search page presents pre-programmed customised search engine to remove pain point of syntax-based configuration of searches\n4. Editor page presents results of search in tabular form, and allows input of editor's comments for each article. Alleviate pain point of \"\"too many cut & paste\"\" for editing product\nNot yet implemented\n5. Auto-publish of edited product using Google AppSheets.Will remove pain point of manually emailing product to consumers. Not implemented yet as it is a paid service, and need to evaluate value first.\n6. Integration with LLM to assist in digesting articles. Will remove pain point of having \"\"too much to read\"\". Manual porting of articles into Google NotebookLM as interim. Will add feature once NotebookLM or equivalent publish APIs.\n7. Podcase production with NotebookLM. Will allevate pain point of no alternative modes for consumption.",
+        "screenshot": "./img/bets.webp",
+        "headline": "Landing page describes problem definition and extant User Journey, pain points"
+    },
+    {
+        "developer": "Edgar Ang",
+        "lg": "1",
+        "category": "finance",
+        "name": "sgMiles",
+        "website": "https://www.flymiles.cc",
+        "summary": "Credit card users looking to redeem air tickets using reward points face challenges due to varying points systems across cards/banks. They must manually calculate, convert, consolidate points across multiple cards and track progress to determine balances and shortfalls, resulting in significant time and effort spent at least once a month to review their bank statements and manage conversions.",
+        "screenshot": "./img/creditcard.webp",
+        "headline": "Credit card users looking to redeem air tickets using reward points face challenges due to varying points systems across cards/banks."
+    },
+    {
+        "developer": "Thong Hui Min",
+        "lg": "1",
+        "category": "food-drinks",
+        "name": "Plan to Plate",
+        "website": "https://healthmeals.org/ ",
+        "summary": "Plan to Plate is a user-friendly meal planner designed for busy professionals who want to eat healthy homecooked meals without much hassle. The app offers a curated selection of simple, nutritious recipes that are quick and easy to prepare. Once a meal is selected, Plan to Plate automatically generates a personalised grocery list based on the number of days the user plans to make that meal",
+        "screenshot": "./img/plantoplate.webp",
+        "headline": "Plan to Plate is a user-friendly meal planner designed for busy professionals who want to eat healthy homecooked meals without much hassle"
+    },
+    {
+        "developer": "Karen Quek",
+        "lg": "1",
+        "category": "work",
+        "name": "Cyber Gauge",
+        "website": "https://www.cybergauge-karenqjy.me",
+        "summary": "NA",
+        "screenshot": "./img/cybergague.webp",
+        "headline": "NA"
+    },
+    {
+        "developer": "Nur Syahidah Sahrom",
+        "lg": "1",
+        "category": "health",
+        "name": "",
+        "website": "",
+        "summary": "",
+        "screenshot": "./img/",
+        "headline": ""
+    },
+    {
+        "developer": "Beatrice Sanders",
+        "lg": "1",
+        "category": "social-needs",
+        "name": "",
+        "website": "",
+        "summary": "",
+        "screenshot": "./img/",
+        "headline": ""
+    },
+    {
+        "developer": "Ernest Tan ",
+        "lg": "1",
+        "category": "sports",
+        "name": "HoopHubSG",
+        "website": "https://HoopHub.org",
+        "summary": "HoopHubSG consolidates key data points and basic features for fantasy NBA basketball players to help them make quicker and more informed decisions on whether to change their team rosters.",
+        "screenshot": "./img/hoophub.webp",
+        "headline": "HoopHubSG consolidates key data points and basic features for fantasy NBA basketball players"
+    },
+    {
+        "developer": "Ivan Tan",
+        "lg": "1",
+        "category": "food-drinks",
+        "name": "EatWhat",
+        "website": "https://EatWhat.org",
+        "summary": "NA",
+        "screenshot": "./img/",
+        "headline": "NA"
+    },
+    {
+        "developer": "Lim Tze Min",
+        "lg": "1",
+        "category": "work",
+        "name": "Product Design Game",
+        "website": "https://productdesigngame.org",
+        "summary": "This is a POC of how a \"\"Choose Your Own Adventure\"\" style game, about the process of designing a web app, can be used as a teaching aid to teach Product Design.",
+        "screenshot": "./img/pdtdesigngame.webp",
+        "headline": "\"\"Choose Your Own Adventure\"\" style game, about the process of designing a web app"
+    },
+    {
+        "developer": "Klara Wu",
+        "lg": "1",
+        "category": "education",
+        "name": "Enrich Ease",
+        "website": "https://www.enrichease.com",
+        "summary": "Enrich ease is a enrichment class comparison tool to help parents of preschool children choose the best enrichment classes. By consolidating key information like cost, location, schedule, class size, and enrolment process into a single platform, Enrich Ease makes it easy to compare multiple options at a glance. Features like parent reviews, trial class booking, and direct enrolment links reduce research time and decision fatigue, ensuring the best opportunities for your child with minimal stress",
+        "screenshot": "./img/enrichment.webp",
+        "headline": "Enrich ease is a enrichment class comparison tool to help parents of preschool children choose the best enrichment classes"
+    },
+    {
+        "developer": "Adrian Tang",
+        "lg": "1",
+        "category": "sports",
+        "name": "",
+        "website": "",
+        "summary": "",
+        "screenshot": "./img/",
+        "headline": ""
+    },
+    {
+        "developer": "Chiang Jin Li",
+        "lg": "1",
+        "category": "health",
+        "name": "Habit is Life",
+        "website": "https://myhabitmylife123.work/",
+        "summary": "Habit is Life is a simple app that helps people who want to work on improving their life by stating their goal and following through their habit. It offers a simple 7-day tracker and the user will always have sight of their goal while tracking if they have completed their habit. ",
+        "screenshot": "./img/habits.webp",
+        "headline": "Habit is Life is a simple app that helps people who want to work on improving their life"
+    },
+    {
+        "developer": "Chua Hong En",
+        "lg": "1",
+        "category": "work",
+        "name": "ASC Academy website",
+        "website": "https://ascacademy7878.org",
+        "summary": "ASC Academy website displays leadership and technical course offerings by ASC Academy.\nWebsite also lists the instructors and their experiences.\nASC Website lets interested participants to register for upcoming courses and for both potential participants and collaborators to contact ASC Academy staff through the website\n",
+        "screenshot": "./img/asc.webp",
+        "headline": "ASC Academy website displays leadership and technical course offerings by ASC Academy."
+    },
+    {
+        "developer": "Lee Mian Jun",
+        "lg": "1",
+        "category": "finance",
+        "name": "CPF Optimiser",
+        "website": "https://cpfoptimiser.com",
+        "summary": "This web app will recommend CPF products to optimise financial planning, savings and growth, based on the user's age and saving goal, and arrange from lowest effort to highest effort, with direct links to the application site and an estimated amount of time required for each action.",
+        "screenshot": "./img/cpf.webp",
+        "headline": "This web app will recommend CPF products to optimise financial planning, savings and growth"
+    },
+    {
+        "developer": "Yvonne Pinches",
+        "lg": "1",
+        "category": "environment",
+        "name": "Community Club Book Drop/Pick-up Points",
+        "website": "https://tupbooksgowhere.cc",
+        "summary": "This web app addresses the issue of book waste by offering a platform where users can find local community centers to drop off gently used books. It also enables users to search for specific books whether for recreational or educational purposes at nearby community centres. In addition to reducing waste, the app supports lower-income families by facilitating access to free books. The platform connects donors with convenient drop-off locations and helps people find the books they need, promoting a more sustainable and equitable way to share resources in the community.\n",
+        "screenshot": "./img/ccbook.webp",
+        "headline": "This web app addresses the issue of book waste by offering a platform"
+    },
+    {
+        "developer": "Desmond Loo",
+        "lg": "1",
+        "category": "work",
+        "name": "",
+        "website": "",
+        "summary": "",
+        "screenshot": "./img/",
+        "headline": ""
+    },
+    {
+        "developer": "Sim Han Qiang ",
+        "lg": "1",
+        "category": "environment",
+        "name": "Aerosol Injection\n",
+        "website": "https://simhanqiang.com/",
+        "summary": "A web app that explains what aerosol injection is, its beneifts and concerns through the use of AI.",
+        "screenshot": "./img/aerosol.webp",
+        "headline": "A web app that explains what aerosol injection is"
+    },
+    {
+        "developer": "Ashley Yap",
+        "lg": "1",
+        "category": "finance",
+        "name": "Innovation Hub",
+        "website": "https://Investforgood.co",
+        "summary": "NA",
+        "screenshot": "./img/innovation-hub.webp",
+        "headline": "na"
+    },
+    {
+        "developer": "Xie Yongcong",
+        "lg": "1",
+        "category": "education",
+        "name": "Digital Tool Advisor",
+        "website": "https://digital-tool.work",
+        "summary": "My web app aims to help busy teachers navigate the digital landscape, by recommending specific digital tools based on their use cases. This will help reduce the time needed for them to research and understand these tools, hence empowering them to focus on their core duties such as Teaching and Learning (T&L) and holistic development of their students.",
+        "screenshot": "./img/digital-tool.webp",
+        "headline": "My web app aims to help busy teachers navigate the digital landscape, by recommending specific digital tools based on their use cases"
+    },
+    {
+        "developer": "Dawn Tay",
+        "lg": "1",
+        "category": "food-drinks",
+        "name": "Food Waste Warrior",
+        "website": "https://food-waste-warrior.com/",
+        "summary": "5 min is all it takes for user to be glorified as MDDI's food waste warrior - someone who contributes in minimising food waste and unneeded spending on MDDI's buffet lines.",
+        "screenshot": "./img/food-waste.webp",
+        "headline": "5 min is all it takes for user to be glorified as MDDI's food waste warrior "
+    },
+    {
+        "developer": "Raymond Huynh",
+        "lg": "1",
+        "category": "food-drinks",
+        "name": "",
+        "website": "",
+        "summary": "",
+        "screenshot": "./img/",
+        "headline": ""
+    },
+    {
+        "developer": "Nelle Ng",
+        "lg": "1",
+        "category": "food-drinks",
+        "name": "Lunch Buddy",
+        "website": "",
+        "summary": "",
+        "screenshot": "./img/",
+        "headline": ""
+    },
+    {
+        "developer": "Sean Teo",
+        "lg": "1",
+        "category": "work",
+        "name": "Mentee-Meets-Mentor (MMM)",
+        "website": "https://mentee-meets-mentor.app/",
+        "summary": "Mentee-Meets-Mentor is here to e(M)power public officers on their tech mentorship journey. The platform offers a seamless way to explore and search for an ideal mentor from a diverse pool of experienced professionals across MDDI. With just a few clicks, mentees can filter and shortlist mentors based on their unique needs and goals, before booking a 30-minute intro mentor chat within the next two weeks to assess compatibility and kickstart your mentorship journey. ",
+        "screenshot": "./img/mental.webp",
+        "headline": "Mentee-Meets-Mentor is here to e(M)power public officers on their tech mentorship journey."
+    },
+    {
+        "developer": "Heather Humphries",
+        "lg": "1",
+        "category": "food-drinks",
+        "name": "CheapCleanEats",
+        "website": "https://cheapcleaneats.life/",
+        "summary": "This web app provides diabetic-friendly affordable (<$15) meal recommendations in Singapore for diabetic users seeking  low carb/low-GI/low/no-sugar/low calorie meal or snack options. \nFor the working adult who may struggle for healthy food inspiration, the web app also has a random meal recommendation.",
+        "screenshot": "./img/cheapcleaneats.webp",
+        "headline": "This web app provides diabetic-friendly affordable (<$15) meal recommendations"
+    },
+    {
+        "developer": "Kenneth Yeow",
+        "lg": "1",
+        "category": "food-drinks",
+        "name": "Kopipro",
+        "website": "https://kopi-pro.com/",
+        "summary": "This web app helps tourists looking to enjoy a cup of local coffee or tea to easily navigate the ordering process and understand what goes into their drink",
+        "screenshot": "./img/kopi.webp",
+        "headline": "This web app helps tourists looking to enjoy a cup of local coffee or te"
+    }
+  ]
