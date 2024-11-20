@@ -74,7 +74,7 @@
         "lg": "1",
         "category": "education",
         "name": "Weekend do what?",
-        "website": "weekend-do-what.org",
+        "website": "https://weekend-do-what.org",
         "summary": "The web app provides recommendations of activities to do with kids. It can be filtered according to (a) age group, (b) activity type (indoor/outdoor), and (c) cost (free/paid). The activity provides a clickable link to a recommendation. ",
         "screenshot": "./img/weekenddo.webp",
         "headline": "The web app provides recommendations of activities to do with kids"
@@ -93,11 +93,11 @@
         "developer": "TianYun Chen",
         "lg": "1",
         "category": "sports",
-        "name": "",
-        "website": "",
-        "summary": "",
-        "screenshot": "./img/",
-        "headline": ""
+        "name": "Find Your Flows",
+        "website": "https://findyourflows.com/",
+        "summary": "The web app simplifies finding high-quality, free Pilates videos by offering recommendations based on users' skill levels, focus areas, and workout duration.",
+        "screenshot": "./img/findflow.webp",
+        "headline": "The web app simplifies finding high-quality, free Pilates videos by offering recommendations based on users' skill levels, focus areas, and workout duration."
     },
     {
         "developer": "Vincent Li",
@@ -124,7 +124,7 @@
         "lg": "1",
         "category": "food-drinks",
         "name": "Dine",
-        "website": "0d9f16265acff458c150de8c461ce1cb",
+        "website": "",
         "summary": "Dine is a web app that helps users quickly find dining options based on location and dietary filters. Designed for busy individuals, its simple and mobile-optimized interface ensures a seamless experience, enabling users to make quick and informed meal decisions on the go.",
         "screenshot": "",
         "headline": "Dine is a web app that helps users quickly find dining options based on location and dietary filters"
@@ -273,11 +273,11 @@
         "developer": "Phua Yi Hui",
         "lg": "1",
         "category": "work",
-        "name": "",
-        "website": "",
-        "summary": "",
-        "screenshot": "./img/",
-        "headline": ""
+        "name": "Super Staffer Scheduler",
+        "website": "https://superstaffer.app/",
+        "summary": "This web app seeks to help public officers to carry out secretariat duties ",
+        "screenshot": "./img/superstaff.webp",
+        "headline": "This web app seeks to help public officers to carry out secretariat duties "
     },
     {
         "developer": "Wong Choon Bong",
@@ -343,21 +343,21 @@
         "developer": "Nur Syahidah Sahrom",
         "lg": "1",
         "category": "health",
-        "name": "",
-        "website": "",
-        "summary": "",
-        "screenshot": "./img/",
+        "name": "Kid Sick Go Where?",
+        "website": "https://kidsickgowhere.com",
+        "summary": "\"Kid Sick Go Where?\" is your go-to companion for anxious parents seeking medical care for their sick kids",
+        "screenshot": "./img/kidsick.webp",
         "headline": ""
     },
     {
         "developer": "Beatrice Sanders",
         "lg": "1",
         "category": "social-needs",
-        "name": "",
-        "website": "",
-        "summary": "",
-        "screenshot": "./img/",
-        "headline": ""
+        "name": "izzyQs",
+        "website": "https://izzyqs.com/",
+        "summary": "izzyQ is an easy ice-breaker generator for smooth and easy group facilitation",
+        "screenshot": "./img/izzy.webp",
+        "headline": "izzyQ is an easy ice-breaker generator for smooth and easy group facilitation"
     },
     {
         "developer": "Ernest Tan ",
@@ -403,11 +403,11 @@
         "developer": "Adrian Tang",
         "lg": "1",
         "category": "sports",
-        "name": "",
+        "name": "Live Soccer Screenings in Singapore",
         "website": "",
-        "summary": "",
-        "screenshot": "./img/",
-        "headline": ""
+        "summary": "We aim to help soccer fans in Singapore find the best spots to watch live soccer screenings.",
+        "screenshot": "./img/soccer.webp",
+        "headline": "We aim to help soccer fans in Singapore find the best spots to watch live soccer screenings."
     },
     {
         "developer": "Chiang Jin Li",
@@ -453,17 +453,17 @@
         "developer": "Desmond Loo",
         "lg": "1",
         "category": "work",
-        "name": "",
-        "website": "",
-        "summary": "",
-        "screenshot": "./img/",
-        "headline": ""
+        "name": "DailyRoti for GovPeeps",
+        "website": "https://www.dailyroti.today",
+        "summary": "\"Daily Roti for the GovPeeps\" offers querky practical \"self-improvement\" musings for the inner gahman salaryman.",
+        "screenshot": "./img/dailyroti.webp",
+        "headline": "\"Daily Roti for the GovPeeps\" offers querky practical \"self-improvement\" musings for the inner gahman salaryman."
     },
     {
         "developer": "Sim Han Qiang ",
         "lg": "1",
         "category": "environment",
-        "name": "Aerosol Injection\n",
+        "name": "Aerosol Injection",
         "website": "https://simhanqiang.com/",
         "summary": "A web app that explains what aerosol injection is, its beneifts and concerns through the use of AI.",
         "screenshot": "./img/aerosol.webp",
@@ -503,11 +503,11 @@
         "developer": "Raymond Huynh",
         "lg": "1",
         "category": "food-drinks",
-        "name": "",
-        "website": "",
-        "summary": "",
-        "screenshot": "./img/",
-        "headline": ""
+        "name": "DinnerHow",
+        "website": "https://dinnerhow.com/",
+        "summary": "Welcome to DinnerHow.com, your ultimate escape from the daily \"What should we eat?\" conundrum!",
+        "screenshot": "./img/dinnerhow.webp",
+        "headline": "Welcome to DinnerHow.com, your ultimate escape from the daily \"What should we eat?\" conundrum!"
     },
     {
         "developer": "Nelle Ng",
