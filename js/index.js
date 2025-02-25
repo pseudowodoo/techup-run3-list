@@ -7,10 +7,8 @@ function convertProjectToHtmlCard(project) {
             alt="Screenshot of ${project.website}"
             />
             <strong>${project.name}</strong>
-            ${project.website != '#' ? '
-            <a data-umami-event="${project.name}" href="${removeTrailingSlash(
-    project.website
-  )}" target="_blank" >${removeTrailingSlash(project.website)}</a>' : '' }
+           ${showurl(project.website,project.name)}
+            
             <p>${project.headline}</p>
         </article>
     </div>
@@ -30,6 +28,10 @@ function convertProjectToHtmlCard(project) {
 
 function removeTrailingSlash(url) {
   return url.endsWith("/") ? url.slice(0, -1) : url;
+}
+
+function showUrl(website,name){
+  return website === "#" ? '' : `<a data-umami-event="${name}" href="${removeTrailingSlash(website)}" target="_blank" >${removeTrailingSlash(website)}</a>`;
 }
 
 function sortByNameAscending(dataArray) {
