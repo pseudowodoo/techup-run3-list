@@ -24,7 +24,8 @@
         "lg": "1",
         "category": "work",
         "name": "SG Co-working Office Finder",
-        "website": "https://www.sgcoofficefinder.com/",
+        "website": "#",
+        "label":"sgcoofficefinder.com",
         "summary": "This web application provides personalized recommendations and guidance for users seeking co-working offices in their vicinity. By alleviating overcrowding in popular business districts and reducing congestion on public transport during peak hours, it promotes a more sustainable commuting experience. Additionally, it encourages users to adopt active transportation options, such as cycling and walking, fostering a healthier lifestyle.\nKey Features:\nFlexible Access: The app supports both anonymous browsing and authenticated access through Google Sign-In.\nPersonalized Recommendations: For signed-in users, the app offers the option to provide basic information (optional), such as home address, primary office address, and preferred mode of transport. This data helps tailor recommendations to meet individual needs.\nCo-working Office Discovery: Users can browse a list of nearby co-working offices, which can be sorted by either distance or estimated travel time from their current location or an entered address.\nInteractive Mapping: The application displays the user’s current location and outlines the route to their selected co-working office using Google Maps, ensuring an easy navigation experience.\nWeather Insights: Users receive real-time weather forecasts and temperature data sourced from the NEA 24-Hour Weather Forecast API. This information assists users in making informed decisions regarding their mode of transportation.\nTime-Saving Alerts: The app highlights potential time savings when opting for co-working offices closer than their primary workplace, along with emphasizing the benefits of alternative transportation methods like cycling.",
         "screenshot": "./img/coofffinder.webp",
         "headline": "personalized recommendations and guidance for users seeking co-working offices in their vicinity"
@@ -34,7 +35,8 @@
         "lg": "1",
         "category": "sports",
         "name": "Sport On",
-        "website": "https://sporton.site/",
+        "website": "#",
+        "label" : "sporton.site",
         "summary": "This web app allows casual sports enthusiasts who are exploring a new sport, to rent relevant equipment (not inclusive of wearable gear) from other people for a period of time, at a lower cost, and in their vicinity. Rental profiles include their listings, as well as ratings and testimonies from past exchanges, for users to gain an insight of the credibility of equipment owners. Users can also reach out to these owners (if they indicated in their profile) to play the sport together, addressing users' pain points of cost of equipment and lack of friends to play the sport together with. ",
         "screenshot": "./img/sporton.webp",
         "headline": "This web app allows casual sports enthusiasts who are exploring a new sport, to rent relevant equipment"
@@ -294,7 +296,7 @@
         "lg": "1",
         "category": "social-needs",
         "name": "Where Can Lepak",
-        "website": "https://www.wherecanlepak.ngkelly.com",
+        "website": "https://ngkelly.com/lepak",
         "summary": "NA",
         "screenshot": "./img/lepak.webp",
         "headline": "NA"
@@ -354,7 +356,8 @@
         "lg": "1",
         "category": "social-needs",
         "name": "izzyQs",
-        "website": "https://izzyqs.com/",
+        "website": "#",
+        "label":"izzyqs.com",
         "summary": "izzyQ is an easy ice-breaker generator for smooth and easy group facilitation",
         "screenshot": "./img/izzy.webp",
         "headline": "izzyQ is an easy ice-breaker generator for smooth and easy group facilitation"
