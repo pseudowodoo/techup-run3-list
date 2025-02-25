@@ -7,7 +7,7 @@ function convertProjectToHtmlCard(project) {
             alt="Screenshot of ${project.website}"
             />
             <strong>${project.name}</strong>
-           ${showurl(project.website,project.name)}
+           ${showUrl(project.website,project.name)}
             
             <p>${project.headline}</p>
         </article>
